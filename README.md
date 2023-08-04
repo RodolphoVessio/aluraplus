@@ -5,7 +5,7 @@ Plataforma Alura Plus, desenvolvido com os cursos de HTML e CSS
 ![imagem 2](https://github.com/RodolphoVessio/aluraplus/assets/78026475/6919cdf5-f7d7-4066-b7e1-20f559b3e8da)
 ![imagem 3](https://github.com/RodolphoVessio/aluraplus/assets/78026475/0860f22d-a231-4740-8dee-7cfb8ca9e7e1)
 ![imagem 4](https://github.com/RodolphoVessio/aluraplus/assets/78026475/c4a3d330-31c9-4b46-bf82-75ddb67b334a)
-![imagem 5](https://github.com/RodolphoVessio/aluraplus/assets/78026475/98900466-80b5-4e7d-bbeb-87b1d5b39aa0)
+
 
 ## Ferramentas utilisadas:
 
