@@ -1,10 +1,11 @@
-# aluraplus <br>
+# Alura Plus <br>
 Plataforma Alura Plus, desenvolvido com os cursos de HTML e CSS
 
-![imagem 1](https://github.com/RodolphoVessio/aluraplus/assets/78026475/a8f9d2ad-dc0d-463b-afd6-0ea1a3548000)
-![imagem 2](https://github.com/RodolphoVessio/aluraplus/assets/78026475/6919cdf5-f7d7-4066-b7e1-20f559b3e8da)
-![imagem 3](https://github.com/RodolphoVessio/aluraplus/assets/78026475/0860f22d-a231-4740-8dee-7cfb8ca9e7e1)
-![imagem 4](https://github.com/RodolphoVessio/aluraplus/assets/78026475/c4a3d330-31c9-4b46-bf82-75ddb67b334a)
+![imagem 1](https://github.com/RodolphoVessio/aluraplus/assets/78026475/7c03a44d-e39d-47b9-b4c5-ade6d398452f)
+![imagem 2](https://github.com/RodolphoVessio/aluraplus/assets/78026475/f36b12f9-dcb0-4218-bb24-9409c32fac1c)
+![imagem 3](https://github.com/RodolphoVessio/aluraplus/assets/78026475/a8efab1c-1c11-4989-89a0-fe50bb6a7932)
+![imagem 4](https://github.com/RodolphoVessio/aluraplus/assets/78026475/81523d6f-f70f-4b2d-9ef0-c82169353a43)
+![imagem 5](https://github.com/RodolphoVessio/aluraplus/assets/78026475/f22f1de7-b9ba-4722-a675-f7e2f32e4c9e)
 
 
 ## Ferramentas utilisadas:
